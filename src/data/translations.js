@@ -109,7 +109,6 @@ export const translations = {
         },
         footer: {
             rights: 'Tous droits réservés',
-            madeWith: 'Fait avec',
         },
     },
     en: {
@@ -222,7 +221,6 @@ export const translations = {
         },
         footer: {
             rights: 'All rights reserved',
-            madeWith: 'Made with',
         },
     },
 };

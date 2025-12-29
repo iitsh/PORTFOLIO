@@ -17,9 +17,6 @@ const Footer = () => {
                 <p>
                     © {currentYear} Rayane Berrada. {t('footer.rights')}.
                 </p>
-                <p>
-                    {t('footer.madeWith')} <span className="heart">❤️</span> React & Framer Motion
-                </p>
             </div>
         </motion.footer>
     );
