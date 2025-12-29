@@ -4,6 +4,7 @@ export const translations = {
             home: 'Accueil',
             about: 'À propos',
             skills: 'Compétences',
+            formation: 'Formation',
             experience: 'Expérience',
             projects: 'Projets',
             contact: 'Contact',
@@ -23,6 +24,24 @@ export const translations = {
         },
         skills: {
             title: 'Compétences Techniques',
+        },
+        formation: {
+            title: 'Formation',
+            current: 'En cours',
+            items: [
+                {
+                    degree: 'Concepteur & Développeur d\'Applications',
+                    school: 'INSTA',
+                    status: 'current',
+                    description: 'École d\'ingénierie en informatique et nouvelles technologies, reconnue par l\'État (titres RNCP), orientée innovation, alternance et forte insertion professionnelle.',
+                },
+                {
+                    degree: 'Génie Informatique & Intelligence Artificielle',
+                    school: 'EST Meknès',
+                    status: 'completed',
+                    description: 'École Supérieure de Technologie professionnalisante formant des techniciens supérieurs dans divers domaines techniques.',
+                },
+            ],
         },
         experience: {
             title: 'Expérience Professionnelle',
@@ -98,6 +117,7 @@ export const translations = {
             home: 'Home',
             about: 'About',
             skills: 'Skills',
+            formation: 'Education',
             experience: 'Experience',
             projects: 'Projects',
             contact: 'Contact',
@@ -117,6 +137,24 @@ export const translations = {
         },
         skills: {
             title: 'Technical Skills',
+        },
+        formation: {
+            title: 'Education',
+            current: 'In progress',
+            items: [
+                {
+                    degree: 'Application Designer & Developer',
+                    school: 'INSTA',
+                    status: 'current',
+                    description: 'Engineering school in IT and new technologies, state-recognized (RNCP titles), focused on innovation, work-study programs and strong professional integration.',
+                },
+                {
+                    degree: 'Computer Science & Artificial Intelligence',
+                    school: 'EST Meknès',
+                    status: 'completed',
+                    description: 'Higher School of Technology providing professional training for technicians in various technical fields.',
+                },
+            ],
         },
         experience: {
             title: 'Professional Experience',
